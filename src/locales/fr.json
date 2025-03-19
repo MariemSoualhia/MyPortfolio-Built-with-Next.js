@@ -1,0 +1,13 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact",
+    "language": "Langue"
+  },
+  "home": {
+    "title": "Bienvenue sur mon Portfolio 🚀",
+    "description": "Je suis Mariem Soualhia, ingénieure Full Stack spécialisée en React et Node.js."
+  }
+}
